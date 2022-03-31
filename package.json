@@ -1,0 +1,15 @@
+{
+  "name": "intersection_observer",
+  "version": "1.0.0",
+  "source": "index.html",
+  "license": "MIT",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.4.0",
+    "parcel": "^2.4.0"
+  }
+}
